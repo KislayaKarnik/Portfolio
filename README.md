@@ -1,4 +1,2 @@
-# Portfolio
-First decent site 
-
-Site created using HTML and CSS.
+# portfolio
+first decent site
